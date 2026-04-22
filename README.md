@@ -29,7 +29,7 @@ ProNIT database provides experimentally determined thermodynamic interaction dat
 
   - 20130315_ProNIT.dat.gz
 
-#### Last version of the database on webarchive is availanle here
+#### Last version of the database on webarchive is available here
 
   - https://web.archive.org/web/20170930003509/http://www.abren.net:80/pronit/
 
