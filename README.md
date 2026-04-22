@@ -13,7 +13,7 @@ ProTherm is a collection of numerical data of thermodynamic parameters such as G
 
 #### The repository contain a clean version of the database with some typos fixed.
 
-  - 20130222_Clean_ProTherm.dat.gz
+  - 20130222_Clean_ProTherm.dat.gz 
 
 #### Copyright
 
