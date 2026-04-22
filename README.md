@@ -25,7 +25,7 @@ ProTherm is a collection of numerical data of thermodynamic parameters such as G
 ProNIT database provides experimentally determined thermodynamic interaction data between proteins and nucleic acids. It contains the properties of the interacting protein and nucleic acid, bibliographic information and several thermodynamic parameters such as the binding constants, changes in free energy, enthalpy and heat capacity. For more details, please see About ProNIT. ProNIT current release, ProNIT 2.0, contains 7970 entries. Since we have deleted some data and have carried out major modifications, the entries of database are renumbered. We have provided a Mapping table, which relates the old and new entry numbers, to help the users.
 
 
-#### Last version of ProNIT available online 15 Mar 2013
+#### Last version of ProNIT available online 15 Mar 2013 
 
   - 20130315_ProNIT.dat.gz
 
